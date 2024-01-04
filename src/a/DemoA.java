@@ -14,5 +14,10 @@ public static void main(String[] args) {
 	public static void add(int a, int b) {
 		System.out.println(a + b);
 	}
+	
+	//Coming from Github
+	public static void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 
 }
