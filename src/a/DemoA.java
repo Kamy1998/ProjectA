@@ -19,5 +19,9 @@ public static void main(String[] args) {
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
+	//Coming from GitHub
+	public static divide(int a, int b){
+		System.out.println( a/b)
+	}
 
 }
